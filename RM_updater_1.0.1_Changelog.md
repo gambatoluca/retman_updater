@@ -1,6 +1,6 @@
-# Changelog – RM_updater_1.0.0
+# Changelog – RM_updater_1.0.1
 
-**Release Date:** [Insert release date here]
+**Release Date:** [07June25]
 
 ## ✨ Features
 - **Graphical User Interface (GUI)** built with PyQt6 for a clean and user-friendly update process.
@@ -12,7 +12,7 @@
 
 ## 🖼 UI Enhancements
 - Embedded **custom logo (`logo.png`)** displayed at the top of the window.
-- Custom **window icon (`icon.ico`)** for professional branding.
+- Custom **window icon (`icon.ico`)** 
 - Polished layout with margins, spacing, and font adjustments.
 
 ## 🛠 Internal Improvements
